@@ -10,4 +10,6 @@
 
 4. Count number of occurances of each motif in each variant 
 
+## Results showing motif count per 100 samples
+
 ![download (1)](https://user-images.githubusercontent.com/64996608/186219062-33744930-7c59-40e0-a96a-cd7dd3fd1fa8.png)
