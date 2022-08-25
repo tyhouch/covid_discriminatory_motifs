@@ -6,7 +6,7 @@
 
 2. Use modify_fasta to rename IDs so that Kevolve can appropritately classify variants
 
-3. Run 'extract k_mers' to identify discriminitory motifs
+3. Run 'extract k_mers' to identify discriminitory motifs using [Kevolve](https://github.com/bioinfoUQAM/Kevolve)
 
 4. Count number of occurances of each motif in each variant 
 
