@@ -10,3 +10,5 @@
 
 4. Count number of occurances of each motif in each variant 
 
+# example clustermap for k=20 motifs
+![k20](https://user-images.githubusercontent.com/64996608/190027082-d0733120-6751-460c-8c17-9936b3baf57e.png)
